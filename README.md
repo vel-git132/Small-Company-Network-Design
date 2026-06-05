@@ -1,7 +1,8 @@
 # Small-Company-Network-Design
 Enterprise-style network infrastructure designed in Cisco Packet Tracer with VLAN isolation, inter-VLAN routing, ACLs, DHCP, DNS, NAT, and secure connectivity across multiple departments.
+**
+**Small Company Network Design – Cisco Packet Tracer****
 
-Small Company Network Design – Cisco Packet Tracer
 Overview
 
 This project simulates a small company network infrastructure using Cisco Packet Tracer. The network is designed to provide secure communication, efficient traffic management, and centralized network services across multiple departments.
